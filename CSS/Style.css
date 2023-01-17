@@ -1,0 +1,299 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   
+     
+    
+}
+nav{
+    width: 100%;
+    height: 110px;
+    background-color: #00BAFF;
+    
+}
+@media screen  {
+    nav{
+        width: 100%;
+        height: 100%;
+    }
+    body{
+        width: 100%;
+        height: 100%;
+    }
+ 
+  
+}
+
+
+nav ul li{
+    display: inline-block;
+    font:Comic Sans MS  Comic Sans MS;
+    margin: 20px;
+    padding: 20px;
+    list-style: none;
+  
+}
+a{
+    text-decoration: none;
+     color: #000;
+      font-family: Comic Sans MS;
+      font-weight: bold;
+    font-size:16px;
+}
+.active{
+
+    color: #fff;
+}
+
+
+img{
+    float:right;
+    position: relative;
+    top:-110px;
+}
+/*home*/
+
+h1{
+    font-family:Trebuchet MS ;
+    text-transform: capitalize;
+    padding: 30px;
+}
+
+td{
+    padding: 30px;
+ 
+}
+.colum1{
+    text-transform: capitalize;
+    font-family:Arial Rounded MT;
+    font-weight: none;
+}
+.colum2{
+    text-transform: capitalize;
+    font-family:Tahoma;
+    font-weight: bold;
+}
+.images{
+    
+    position: relative;
+    top:-400px; 
+    right: 200px;
+}
+
+
+
+    /*page2*/
+    .save {
+        width: 180px;
+        height: 25px;
+        background-color: #198754;
+        border-radius: 5px;
+        color: white;
+        margin-left:70px;
+    }
+    
+    .rest {
+        width: 180px;
+        height: 25px;
+        background-color: #dc3545;
+        border-radius: 5px;
+        color: white;
+        margin-left:100px;
+    
+    }
+  
+    
+
+
+    
+    .tab{
+        margin: 20px;
+    }
+    .but {
+        margin: 20px;
+    }
+    .input{
+        margin-left:70px;
+        width: 200px;
+        border-radius: 5px;
+        background-color: green;
+    }
+    .reset {
+        margin-left:100px;
+        width: 200px;
+        border-radius: 5px;
+        background-color: red;
+    }
+    
+    .main .images3{
+    
+        position: relative;
+        top:20px; 
+        right: 40px;
+        
+    }
+    .Notes{
+        width: 250px;
+        height: 100px;
+        border-radius: 6px;
+    }
+    .tab tr{
+        margin: 20px;
+        padding: 20px;
+    }
+    /*page5*/
+    .tab1 {
+    margin: 40px;
+    border: none;
+   
+ 
+    }
+  
+    /* .tab1 {
+        border: none;} */
+  /* th, td {
+        border: none;} */
+
+  .Description{
+    width: 400px;
+    height: 150px;
+  }
+  .Desc{
+    position: relative;
+    top:-70px; 
+    
+  }
+  .main .images4{
+    
+    position: relative;
+    top:20px; 
+    right: 0px;
+    
+}
+
+
+/* start course_view */
+
+.div2 {
+    background-color: white;
+    margin: 0px 5px;
+}
+
+.div2 h1 {
+    font-family: 'Trebuchet MS';
+    margin-left: 45px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+
+.div2 {
+    background-color: white;
+    margin: 0px 5px;
+}
+
+.div2 h1 {
+    font-family: 'Trebuchet MS';
+    margin-left: 45px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.tablecourse {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 93%;
+    margin: auto;
+    border-style: hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 0 1px #666;
+    overflow: hidden;
+}
+#c {
+    text-align: center;
+}
+
+.tableheder {
+    background-color: #606060;
+    height: "20px";
+    text-align: center;
+}
+
+.tablecourse td,
+th {
+    padding: 8px;
+    height: 80px;
+    text-align: center;
+}
+
+.tablecourse th {
+    height: 20px;
+}
+
+.tab1 {
+    background-color: #e5e5e5;
+}
+/* start add experince page */
+
+
+.div3 {
+    background-color: white;
+    margin: 0px 5px;
+}
+
+.div3 h1 {
+    font-family: cursive;
+    padding-left: 23px;
+}
+
+.div3 .web {
+    padding-left: 46px;
+    padding-bottom: 17px;
+}
+
+.div3 .free {
+    padding-top: 47px;
+}
+
+.div3 sub {
+    font-size: 20px;
+}
+
+.div3 .from {
+    padding-left: 46px;
+    padding-bottom: 22px;
+    font-weight: bold;
+}
+
+.div3 .work {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 46px;
+    padding-bottom: 22px;
+    font-size: 15px;
+   
+}
+
+
+.experience{
+    margin-left:85px;
+   padding-right: 195px;
+}
+.img4 img{
+
+    margin-top: 80px;
+    padding-right: 100px;
+    width: 95%;
+   
+}
+
+.div41 {
+    font-family:Trebuchet MS  ;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 85;
+ }
+
+   
